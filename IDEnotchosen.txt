@@ -1,0 +1,4 @@
+One of the IDEs I chose not to use was Jetbrains IntelliJ.
+I chose not to use IntelliJ for this class because I already have a different editor configured for my workflow.
+Another reason is because IntelliJ can take up a lot of memory and slow down, so I prefer something more lightweight.
+The last reason I chose not to use IntelliJ is because I don't want to have to learn a new editor for just one language.
