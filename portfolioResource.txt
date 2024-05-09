@@ -1,0 +1,10 @@
+One way I might use Github to create a portfolio is by contributing to open-source repositories.
+I've heard that companies like to look at your Github profile to see how much you code.
+In that regard, even if you don't have very many projects, companies will likely hire you if your commit history is blanketed with green.
+Even though it can be good for your career to contribute to other projects, it's still good to make your own projects.
+Starting your own projects can give you a better design sense, which can only be learned by designing and coding software from the ground up.
+
+Github pages is also useful in creating a portfolio.
+This is because it's easy to set up and free.
+Having a website is a great way to show off your projects, and can also show potential employers that you can make websites.
+Github pages can also lead potential employers to your Github profile, which can show them how much you (hopefully) code.
