@@ -1,0 +1,8 @@
+The IDE (or text editor) I chose for this class is Neovim.
+Just as Vim built on vi, Neovim is the next iteration of Vim.
+Neovim adds Lua scripting and LSP support to Vim.
+I like neovim because it's fast to start up and lightweight.
+The neovim workflow makes it easy to develop very quickly and efficiently.
+In neovim, it's easy to do complex operations without even needing to think about it.
+This is because the modal and sentence-like editing are very compact and logical.
+LSP support and completion make it a very good choice for most languages.
